@@ -1,3 +1,4 @@
+
 package smarthome;
 
 public class Main {
